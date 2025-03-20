@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 Currently learning **NextJS and TypeScript**
+- 🌱 Currently learning **TypeScript with NextJS**
 - 🔍 Looking for chances to work together on open-source projects.
 
 ## 🌐 Socials:
